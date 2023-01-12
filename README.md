@@ -2,6 +2,8 @@
 
 Cada branch esta relacionado a algum topico de estudo.
 
-Topicos adicionados:\n
+Topicos adicionados:
+
 Exceptions
+
 JDBC com SQL
